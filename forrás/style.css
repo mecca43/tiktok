@@ -67,3 +67,12 @@ p{
 .piros{
   color: #ff0050;
 }
+
+#szoveg{
+  border: solid black 10px;
+  border-left-color: #00f2ea;
+  border-top-color:  #00f2ea ;
+  border-right-color: #ff0050;
+  border-bottom-color: #ff0050;
+  padding: 5px;
+}
